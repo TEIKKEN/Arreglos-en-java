@@ -1,0 +1,46 @@
+========================================
+EJECUCIÓN DEL PROGRAMA ARREGLOS EN JAVA
+========================================
+
+ENTRADA DE DATOS:
+Ingrese el valor para el arreglo 1
+5
+Ingrese el valor para el arreglo 2
+2
+Ingrese el valor para el arreglo 1
+10
+Ingrese el valor para el arreglo 2
+3
+Ingrese el valor para el arreglo 1
+15
+Ingrese el valor para el arreglo 2
+4
+Ingrese el valor para el arreglo 1
+20
+Ingrese el valor para el arreglo 2
+5
+Ingrese el valor para el arreglo 1
+25
+Ingrese el valor para el arreglo 2
+6
+Ingrese el valor para el arreglo 1
+30
+Ingrese el valor para el arreglo 2
+7
+Ingrese el valor para el arreglo 1
+35
+Ingrese el valor para el arreglo 2
+8
+
+RESULTADOS:
+Los valores del arreglo 3 son:
+3
+7
+11
+15
+19
+23
+27
+
+El promedio de la suma es: 15.142857142857142
+
