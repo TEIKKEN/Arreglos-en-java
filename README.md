@@ -39,18 +39,13 @@ Los valores del arreglo 3 son:
 El promedio de la suma es: 15.142857142857142
 ```
 
-## Descripción técnica
+## Descripcion
 
 - **Arreglo 1:** Almacena los primeros 7 números ingresados
 - **Arreglo 2:** Almacena los segundos 7 números ingresados  
 - **Arreglo 3:** Contiene la diferencia (arreglo1 - arreglo2)
 - **Promedio:** Se calcula como (suma de arreglo3) / 7
 
-## Errores corregidos
 
-✅ Eliminadas variables de bucle duplicadas
-✅ Corregida la estructura de llaves
-✅ Reorganizada la lógica de cálculo de suma y promedio
-✅ Utilizadas declaraciones de arreglos estándar en Java
 Contribuyentes: 
 Camilo Botero
